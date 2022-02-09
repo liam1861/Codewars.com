@@ -1,9 +1,6 @@
 //First question about multiply a and b
 
-int main () {
-  int a* int b = a*b;
+multiply (a,b){
 
-  
-  return a; 
-  return b;
+return a*b;
 }
