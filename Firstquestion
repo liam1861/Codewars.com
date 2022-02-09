@@ -1,0 +1,9 @@
+//First question about multiply a and b
+
+int main () {
+  int a* int b = a*b;
+
+  
+  return a; 
+  return b;
+}
